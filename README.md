@@ -1,5 +1,5 @@
 # ECG Arrhythmia Classification – MIT-BIH Dataset  
-**98.10% test accuracy** – November 2025 (independent project)
+**98.03% test accuracy** – November 2025 (independent project)
 
 ![Confusion Matrix](confusion_matrix.png)
 
